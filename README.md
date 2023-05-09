@@ -8,13 +8,9 @@ This project is a direct fork of the HBlink (https://github.com/HBLink-org/HBLin
 
 Please feel free to reach out to us for help, comments or otherwise, on our Discord: https://discord.gg/3pBe8xgrEz
 
-## Quick Setup Instructions
+## Install Instructions
 
-1. Ensure python3.9, python3.9-venv, python3.9-dev are installed via apt/your favorite package maneger.
-2. Create the virtualenv and activate it with `python3.9 -m venv . && source bin/activate`
-3. Install requirements: `pip install wheel && pip install -r requirements.txt`
-4. Set up your config file and rules
-5. Run `python fne_router.py` to start up the router.
+See docs for the install readme.
 
 ## License
 
