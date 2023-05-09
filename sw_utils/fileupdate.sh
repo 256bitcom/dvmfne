@@ -8,5 +8,6 @@ mv fne_router-SAMPLE.cfg /opt/dvmfne/cfg/fne_router.cfg
 mv fne_parrot-SAMPLE.cfg /opt/dvmfne/cfg/fne_parrot.cfg
 mv fne_bridge-SAMPLE.cfg /opt/dvmfne/cfg/fne_bridge.cfg
 cd /opt/dvmfne/
+mv fne_routing_rules-SAMPLE.py /opt/dvmfne/fne_routing_rules.py
 echo "Operation Complete!"
 exit
