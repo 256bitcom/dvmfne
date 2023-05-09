@@ -9,3 +9,4 @@ mv fne_parrot-SAMPLE.cfg /opt/dvmfne/cfg/fne_parrot.cfg
 mv fne_bridge-SAMPLE.cfg /opt/dvmfne/cfg/fne_bridge.cfg
 cd /opt/dvmfne/
 echo "Operation Complete!"
+exit
